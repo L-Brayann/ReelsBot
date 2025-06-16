@@ -1,0 +1,9 @@
+{
+  "name": "reels-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "form-data": "^4.0.0"
+  }
+}
